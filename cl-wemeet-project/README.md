@@ -1,10 +1,12 @@
 # CL-WeMeet  
 **WeMeet 스타일 실시간 협업 웹 플랫폼**
 
-![데모 영상](media/Demo_Video.gif)
+<p align="center">
+  <img src="media/Demo_Video.gif" width="450">
+</p>
 
-> **실시간 채팅 · Azure 클라우드 퀴즈 · 웹툰 추천 · 팀 소개**  
-> 귀여움 + 기능성 다 잡은 2025 종합설계 최고의 작품!
+> **실시간 채팅 · Azure 클라우드 퀴즈 · 웹툰 추천 **  
+> Microsoft와 함께하는 프로젝트
 
 <br>
 
