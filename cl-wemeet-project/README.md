@@ -28,9 +28,11 @@
 |-----------------------|---------------------------------------------------------|-----------------------------------------------|
 | 실시간 채팅           | Node.js + Express 기반 완전 동작 채팅 시스템            | ![채팅 화면](img/chatbot.png)                |
 | Azure 클라우드 퀴즈   | 60문항 JSON 기반 랜덤 출제<br>실시간 정답 확인 + 점수 표시 | ![퀴즈 정답](https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_wrong_example.jpg)<br>![퀴즈 오답](https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_right_example.jpg) |
-| 퀴즈 인사이트         | 자주 틀리는 문제 / 자주 맞는 문제 랭킹 실시간 제공      | ![퀴즈 인사이트](https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_insight.jpg) |
-| 언어 장벽 없는 회의   | 재미있는 4칸 만화로 Azure 서비스 설명 (웃음 보장)       | ![만화 설명](https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/funny_cartoon.jpg) |
-| 웹툰 추천 인덱스       | 귀여운 로봇이 안내하는 자동 슬라이드 웹툰 추천          | ![웹툰 인덱스](https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/webtoon_index.jpg) |
+| 퀴즈 인사이트         | 자주 틀리는 문제 / 자주 맞는 문제 랭킹 실시간 제공      | ![퀴즈 인사이트](https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_1.png)
+[퀴즈 인사이트2](https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_2.png)
+[퀴즈 인사이트3](https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_3.png) |
+| 언어 장벽 없는 회의   | 재미있는 4칸 만화로 Azure 서비스 설명 (웃음 보장)       | ![만화 설명](https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/webtoon_home.png) |
+| 웹툰 추천 인덱스       | 귀여운 로봇이 안내하는 자동 슬라이드 웹툰 추천          | ![웹툰 인덱스](https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/webtoon_language.png) |
 | 완전 반응형 디자인    | 모바일 · 태블릿 · 데스크톱 어디서나 완벽                 | 모든 페이지 적용                              |
 
 <br>
