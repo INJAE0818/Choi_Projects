@@ -14,8 +14,8 @@
 | ![Main](images/최종.png)                          |
 
 
-| 우리팀 순간들                                       |
-
+| 우리팀 순간들                                    |
+|--------------------------------------------------|
 ![Team1](assets/Pt_moment_01.JPG) ![Team2](assets/Pt_moment_02.JPG) ![Team3](assets/Pt_moment_03.JPG) |
 
 ## 주요 기능
